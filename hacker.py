@@ -1,7 +1,6 @@
 import random
 import time
 
-# List of strings to display
 strings = [
     "Accessing secure server and initializing multi-layer encryption defense bypass.",
     "Establishing encrypted connection to evade potential network activity monitoring.",
